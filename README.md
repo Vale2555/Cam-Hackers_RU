@@ -8,13 +8,13 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+* git clone https://github.com/Vale2555/Cam-Hackers_RU.git
 
 * pip3 install requests
 
 * pip3 install colorama
 
-* cd Cam-Hackers
+* cd Cam-Hackers_RU
 
 * python3 cam-hackers.py
 

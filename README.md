@@ -1,0 +1,2 @@
+# Cam-Hackers_RU
+Должен сказать, что проект не мой. Это всего лишь переведенная и слегка измененная мной программа (автор оригинала: https://github.com/AngelSecurityTeam). Обязательно зайдите на оригинальный репозиторий и поставьте звезду!!! ||  I must say that the project is not mine. This is just a translated and slightly modified program by me (the author of the original: https://github.com/AngelSecurityTeam). Be sure to go to the original repository and put a star!!!
